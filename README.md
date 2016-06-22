@@ -10,3 +10,6 @@ Eric Ma
 ### What is your favorite color?
 
 Red and Blue
+
+### What is your favorite ice cream?
+> Mint
